@@ -19,5 +19,7 @@ Para poder realizar este proyecto necesitamos los siguientes componentes:
 # TRABAJOS
 
 dividimos el trabajo en 3 pero trabajando mutuamente
+
 Fausto Taranto: diseño de la placa
+
 Agustin Merodo: 
