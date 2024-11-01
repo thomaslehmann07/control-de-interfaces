@@ -16,9 +16,7 @@ Para poder realizar este proyecto necesitamos los siguientes componentes:
 
 -Regulador de voltaje
 
-
-
-
+# TRABAJOS
 
 dividimos el trabajo en 3 pero trabajando mutuamente
 Fausto Taranto: diseño de la placa
