@@ -7,6 +7,7 @@ este proyecto integrador se basa en el diseño y programacion de una cinta metri
 # 5°to 1ra AVIONICA
 
 #MATERIALES
+
 Para poder realizar este proyecto necesitamos los siguientes componentes:
 
 -Display LCD
