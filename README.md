@@ -1,8 +1,8 @@
-# INTEGRANTES: Fausto Taranto, Agustin Merodo, Thomas Lehmann
+{# INTEGRANTES: Fausto Taranto, Agustin Merodo, Thomas Lehmann
 proyecto integrador 2024
 
 este proyecto integrador se basa en el diseño y programacion de una cinta metrica digital, la cual mediante un sensor ultrasonico se podra tomar la medida de la pieza.
-
+}
 
 #  MATERIALES
 
