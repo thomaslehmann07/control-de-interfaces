@@ -16,6 +16,8 @@ Para poder realizar este proyecto necesitamos los siguientes componentes:
 
 -Regulador de voltaje
 
+-Placa sbc raspberry pi pico
+
 # TRABAJOS
 
 1-Diseño 
