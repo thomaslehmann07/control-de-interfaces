@@ -20,4 +20,10 @@ Para poder realizar este proyecto necesitamos los siguientes componentes:
 
 # TRABAJOS
 
-1-Diseño 
+1-Diseño de la placa 
+
+-Diseño de la pagina web
+
+-Programacion del codigo
+
+-
