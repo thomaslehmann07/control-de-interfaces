@@ -18,12 +18,19 @@ Para poder realizar este proyecto necesitamos los siguientes componentes:
 
 -Placa sbc raspberry pi pico
 
-# TRABAJOS
+# PASOS A REALIZAR
+
+los pasos que fueron realizados son los siguentes:
 
 1-Diseño de la placa 
 
--Diseño de la pagina web
+2-Diseño de la pagina web
 
--Programacion del codigo
+3-Programacion del codigo
 
--
+4-Prueba del codigo en el protoboard
+
+5-Soldar los componentes en la placa
+
+6-Cargar el codigo en la Placa sbc raspberry pi pico
+
